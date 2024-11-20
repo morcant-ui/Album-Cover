@@ -1,0 +1,18 @@
+Create a square album cover for the following album:
+
+Album name : Bruise
+Artist : Lizzy Farrall
+Release Date : 2020-03-27
+Label : Pure Noise Records
+
+Tracks:
+1. Addict by Lizzy Farrall
+2. Gas Lighting by Lizzy Farrall
+3. Yellow Paint by Lizzy Farrall
+4. Love No More by Lizzy Farrall
+5. Games by Lizzy Farrall
+6. Knocked for Six by Lizzy Farrall
+7. Machines by Lizzy Farrall
+8. Balloon by Lizzy Farrall
+9. Okay by Lizzy Farrall
+10. Barbados by Lizzy Farrall

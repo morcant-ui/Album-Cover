@@ -1,0 +1,22 @@
+Create a square album cover for the following album:
+
+Album name : Wendigo
+Artist : Penny and Sparrow
+Release Date : 2017-09-01
+Label : I Love You
+
+Tracks:
+1. Wendigo by Penny and Sparrow
+2. Double Heart by Penny and Sparrow
+3. There's a Lot of Us in Here by Penny and Sparrow
+4. Salome & Saint Procula by Penny and Sparrow
+5. Visiting, Pt. 1 by Penny and Sparrow
+6. Smitten, Pt. 2 by Penny and Sparrow
+7. Kin by Penny and Sparrow
+8. A Kind of Hunger by Penny and Sparrow
+9. Well You Know It Ends Well by Penny and Sparrow
+10. Javert by Penny and Sparrow
+11. Moniker, Pt. 3 by Penny and Sparrow
+12. Rivertown by Penny and Sparrow
+13. Let Me Be Crucial by Penny and Sparrow
+14. The Carmike by Penny and Sparrow
