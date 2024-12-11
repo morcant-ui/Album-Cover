@@ -1,0 +1,61 @@
+{
+    "name": "Hammock",
+    "id": "1YMnFJVnMDu8TwTwT7Ww6z",
+    "date": "2024-03-01",
+    "artists": [
+        "$MASH"
+    ],
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739325a1ca26a9b48ca0ba332c",
+    "genres": [],
+    "label": "Another Imprint",
+    "tracks": [
+        {
+            "name": "Words",
+            "artists": [
+                "$MASH"
+            ]
+        },
+        {
+            "name": "Resigned",
+            "artists": [
+                "$MASH"
+            ]
+        },
+        {
+            "name": "Giungla",
+            "artists": [
+                "$MASH"
+            ]
+        },
+        {
+            "name": "Horizon",
+            "artists": [
+                "$MASH"
+            ]
+        },
+        {
+            "name": "Motivation",
+            "artists": [
+                "$MASH"
+            ]
+        },
+        {
+            "name": "Belleza",
+            "artists": [
+                "$MASH"
+            ]
+        },
+        {
+            "name": "Dissolve",
+            "artists": [
+                "$MASH"
+            ]
+        },
+        {
+            "name": "Wood",
+            "artists": [
+                "$MASH"
+            ]
+        }
+    ]
+}

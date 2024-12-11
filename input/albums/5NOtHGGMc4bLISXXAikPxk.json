@@ -1,0 +1,56 @@
+{
+    "name": "End Credits",
+    "id": "5NOtHGGMc4bLISXXAikPxk",
+    "date": "2015-08-08",
+    "artists": [
+        "EDEN"
+    ],
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c6b9e38e02da433e66a930fc",
+    "genres": [],
+    "label": "Seeking Blue",
+    "tracks": [
+        {
+            "name": "2:09",
+            "artists": [
+                "EDEN"
+            ]
+        },
+        {
+            "name": "End Credits",
+            "artists": [
+                "EDEN",
+                "Leah Kelly"
+            ]
+        },
+        {
+            "name": "Gravity",
+            "artists": [
+                "EDEN"
+            ]
+        },
+        {
+            "name": "Nocturne",
+            "artists": [
+                "EDEN"
+            ]
+        },
+        {
+            "name": "Interlude",
+            "artists": [
+                "EDEN"
+            ]
+        },
+        {
+            "name": "Wake Up",
+            "artists": [
+                "EDEN"
+            ]
+        },
+        {
+            "name": "Catch Me If You Can",
+            "artists": [
+                "EDEN"
+            ]
+        }
+    ]
+}

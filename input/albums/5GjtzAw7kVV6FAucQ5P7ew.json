@@ -1,0 +1,83 @@
+{
+    "name": "Tactile",
+    "id": "5GjtzAw7kVV6FAucQ5P7ew",
+    "date": "2011-01-19",
+    "artists": [
+        "Albert Vila"
+    ],
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730528d01663d15017e725db46",
+    "genres": [],
+    "label": "Fresh Sound Records",
+    "tracks": [
+        {
+            "name": "Talk",
+            "artists": [
+                "Albert Vila",
+                "Santi De La Rubia",
+                "Marko Lohikari",
+                "Roger Mas",
+                "Marc Ayza"
+            ]
+        },
+        {
+            "name": "Now",
+            "artists": [
+                "Albert Vila",
+                "Marc Ayza",
+                "Roger Mas",
+                "Santi De La Rubia",
+                "Marko Lohikari"
+            ]
+        },
+        {
+            "name": "Leviathan",
+            "artists": [
+                "Albert Vila",
+                "Santi De La Rubia",
+                "Marko Lohikari",
+                "Roger Mas",
+                "Marc Ayza"
+            ]
+        },
+        {
+            "name": "Blue",
+            "artists": [
+                "Albert Vila",
+                "Marc Ayza",
+                "Roger Mas",
+                "Santi De La Rubia",
+                "Marko Lohikari"
+            ]
+        },
+        {
+            "name": "Perception",
+            "artists": [
+                "Albert Vila",
+                "Roger Mas",
+                "Marko Lohikari",
+                "Santi De La Rubia",
+                "Marc Ayza"
+            ]
+        },
+        {
+            "name": "Signs",
+            "artists": [
+                "Albert Vila",
+                "Santi De La Rubia",
+                "Roger Mas",
+                "Marc Ayza",
+                "Marko Lohikari"
+            ]
+        },
+        {
+            "name": "Transgenic",
+            "artists": [
+                "Albert Vila",
+                "Santi De La Rubia",
+                "Marko Lohikari",
+                "Roger Mas",
+                "Marc Ayza"
+            ]
+        }
+    ]
+}
