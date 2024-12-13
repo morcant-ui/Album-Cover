@@ -1,0 +1,18 @@
+Create a square album cover for the following album:
+
+Album name : Working Backwards
+Artist : Paddlebots
+Release Date : 2022-10-21
+Label : Bobblehead Records
+
+Tracks:
+1. Someone Else by Paddlebots
+2. What I'm Feeling Right Now by Paddlebots
+3. Dirt 2.0 by Paddlebots
+4. Too Far by Paddlebots
+5. Sleepwalk by Paddlebots
+6. Change in Seasons by Paddlebots
+7. Home by Paddlebots
+8. Push by Paddlebots
+9. Reverie by Paddlebots
+10. Once Again by Paddlebots
